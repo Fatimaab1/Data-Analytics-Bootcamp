@@ -24,35 +24,35 @@ This repository reflects both my technical development and my approach to learni
 ### [Week 01 – Introduction to Data & Excel](Week-01-Data-and-Excel/)
 Built a foundation in data analytics concepts and developed practical Excel skills for data preparation, analysis, and visualisation.
 
-<img src="Week-01-Data-and-Excel/week1-summary-image.png" alt="Week 1 Summary Visual" width="600">
+<img src="Week-01-Data-and-Excel/week1-summary-image.png" alt="Week 1 Summary Visual" width="200">
 
 ---
 
 ### [Week 02 – Data Visualisation (Tableau & Power BI)](Week-02-Data-Visualisation/)
 Focused on visualising and communicating insights using Tableau and Power BI through interactive dashboards and reports.
 
-<img src="week2-summary-image.png" alt="Week 2 Summary Visual" width="300">
+<img src="Week-02-Data-Visualisation/week2-summary-image.png" alt="Week 2 Summary Visual" width="200">
 
 ---
 
-### [Week 03 – Databases & SQL](Week-03-Databases-SQL/)
+### [Week 03 – Databases & SQL](Week-03-SQL-and-Databases/)
 Explored database fundamentals and used SQL to query, manipulate, and analyse data.
 
-<img src="week3-summary-image.png" alt="Week 3 Summary Visual" width="300">
+<img src="Week-03-SQL-and-Databases/week3-summary-image.png" alt="Week 3 Summary Visual" width="200">
 
 ---
 
-### [Week 05 – Cloud Computing & Azure Fundamentals](Week-05-Cloud-Azure/)
+### [Week 05 – Cloud Computing & Azure Fundamentals](Week-05-Cloud-and-Azure/)
 Introduced cloud computing concepts and Microsoft Azure, focusing on data storage, analytics services, and cloud-based data solutions.
 
-<img src="week5-summary-image.png" alt="Week 5 Summary Visual" width="300">
+<img src="Week-05-Cloud-and-Azure/week5-summary-image.png" alt="Week 5 Summary Visual" width="200">
 
 ---
 
-### [Week 06 – Python for Data Analysis](Week-06-Python-Data-Analysis/)
+### [Week 06 – Python for Data Analysis](Week-06-Python-for-Data-Analysis/)
 Applied Python to data analysis tasks, working with dataframes, performing transformations, and creating visualisations.
 
-<img src="week6-summary-image.png" alt="Week 6 Summary Visual" width="300">
+<img src="Week-06-Python-for-Data-Analysis/week6-summary-image.png" alt="Week 6 Summary Visual" width="200">
 
 ---
 
