@@ -55,13 +55,3 @@ Applied Python to data analysis tasks, working with dataframes, performing trans
 <img src="Week-06-Python-for-Data-Analysis/week6-summary-image.png" alt="Week 6 Summary Visual" width="200">
 
 ---
-
-For detailed learning outcomes, technical explanations, and additional examples, please explore the README files within each individual week folder.
-
-
-## Bootcamp Breakdown
-- [Week 01 – Introduction to Data & Excel](Week-01-Data-Excel/)
-- [Week 02 – Data Visualisation (Tableau & Power BI)](Week-02-Data-Visualisation/)
-- [Week 03 – Databases & SQL](Week-03-Databases-SQL/)
-- [Week 05 – Cloud Computing & Azure Fundamentals](Week-05-Cloud-Azure/)
-- [Week 06 – Python for Data Analysis](Week-06-Python-Data-Analysis/)
