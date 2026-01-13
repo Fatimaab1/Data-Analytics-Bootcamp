@@ -54,4 +54,4 @@ In Week 5, I explored cloud computing concepts and Microsoft Azure as part of my
 ## Sample Work
 Here is my completed lab work exploring data analytics in Azure, including querying real-time data with KQL, working with Azure data storage, and creating interactive visualisations in Power BI.
 
-<img src="wk5-images/wk5-azure-activity.png" alt="Azure" width="600">
+<img src="wk5-azure-activity.png" alt="Azure" width="500">
