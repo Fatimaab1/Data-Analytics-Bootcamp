@@ -46,5 +46,5 @@ In Week 3, I focused on databases and SQL, learning how data is stored, organise
 ## Sample Work
 Here is my work in SQL, showing queries used to find the highest life expectancy and compile a list of all cities worldwide from a provided dataset.
 
-<img src="wk3-images/wk3-activity.png" alt="SQL" width="600">
+<img src="wk3-activity.png" alt="SQL" width="500">
 

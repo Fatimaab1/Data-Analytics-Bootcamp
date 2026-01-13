@@ -46,5 +46,5 @@ In Week 1, I explored the fundamentals of data analytics and gained practical ex
 ## Sample Work
 Here is an example of an Excel dashboard I created combining a pivot table, slicers, and a bar chart to analyse purchase frequency by gender and other key dimensions such as location and category.
 
-<img src="wk1-dataset-activity.png" alt="Excel Dashboard" width="600">
+<img src="wk1-dataset-activity.png" alt="Excel Dashboard" width="500">
 
