@@ -11,7 +11,7 @@ In Week 6, I focused on Python programming for data analysis, learning how to im
 - Purpose and advantages of using Python for data analysis
 - Understanding algorithms and their impact on program performance
 - Key concepts: data types, functions and arguments, object-oriented programming (OOP)
-- Conditional statements (`if`) and control flow based on varying conditions
+- Conditional statements and control flow based on varying conditions
 - Implementing loops to iterate over data collections efficiently
 
 ### Data Analysis with Python
