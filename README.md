@@ -21,10 +21,10 @@ This repository reflects both my technical development and my approach to learni
 
 ## Bootcamp Overview
 
-### [Week 01 – Introduction to Data & Excel](Week-01-Data-Excel/)
+### [Week 01 – Introduction to Data & Excel](Week-01-Data-and-Excel/)
 Built a foundation in data analytics concepts and developed practical Excel skills for data preparation, analysis, and visualisation.
 
-<img src="week1-summary-image.png" alt="Week 1 Summary Visual" width="300">
+<img src="Week-01-Data-and-Excel/week1-summary-image.png" alt="Week 1 Summary Visual" width="600">
 
 ---
 
