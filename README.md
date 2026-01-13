@@ -3,18 +3,17 @@
 ## Overview
 This repository showcases my learning and practical work completed during a Data Analytics bootcamp. It demonstrates hands-on experience across the full data analytics workflow, including data cleaning, analysis, visualisation, and reporting using industry-standard tools.
 
-Throughout the bootcamp, I developed practical experience using Excel, SQL, Tableau, Power BI, Python, and Microsoft Azure while working with real-world datasets and business scenarios to strengthen analytical thinking, technical skills, and data-driven storytelling.
+Over the course of the bootcamp, I developed practical experience using Excel, SQL, Tableau, Power BI, Python, and Microsoft Azure while working with real-world datasets and business scenarios to strengthen analytical thinking, technical skills, and data-driven storytelling.
 
 ## About Me & Key Highlights
-Throughout this Data Analytics bootcamp, I developed a strong foundation in analysing, visualising, and interpreting data to support informed decision-making. I particularly enjoyed working with real-world datasets and transforming raw data into clear insights using a combination of analytical thinking and practical tools.
+Throughout this Data Analytics bootcamp, I built a strong foundation in analysing, visualising, and interpreting data to support informed decision-making. I particularly enjoyed working with real-world datasets and transforming raw data into clear insights using a combination of analytical thinking and practical tools.
 
 **Key skills and strengths developed include:**
 - Applying analytical techniques to explore, clean, and interpret data across multiple tools and platforms
-- Communicating insights clearly through dashboards and visualisations
-- Working confidently with Excel, SQL, Tableau, Power BI and Python
+- Effectively presenting insights through dashboards and visualisations
+- Demonstrating competence with Excel, SQL, Tableau, Power BI, and Python
 
-
-This repository reflects both my technical development and my approach to learning — combining hands-on practice, problem-solving, and continuous learning.
+This repository reflects both my technical development and my approach to learning — combining hands-on practice, problem-solving, and a commitment to continuous improvement.
 
 
 ---
@@ -50,7 +49,7 @@ Introduced cloud computing concepts and Microsoft Azure, focusing on data storag
 ---
 
 ### [Week 06 – Python for Data Analysis](Week-06-Python-for-Data-Analysis/)
-Applied Python to data analysis tasks, working with dataframes, performing transformations, and creating visualisations.
+Applied Python to data analysis tasks, working with DataFrames, performing transformations, and creating visualisations.
 
 <img src="Week-06-Python-for-Data-Analysis/week6-summary-image.png" alt="Week 6 Summary Visual" width="200">
 
