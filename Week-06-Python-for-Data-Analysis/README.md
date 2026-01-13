@@ -35,4 +35,4 @@ In Week 6, I focused on Python programming for data analysis, learning how to im
 ## Sample Work
 Here is my work in Python, demonstrating data analysis techniques including aggregation and grouping on a sample dataset.
 
-<img src="wk6-images/wk6-python-activity.png" alt="Python" width="600">
+<img src="wk6-python-activity.png" alt="Python" width="500">
