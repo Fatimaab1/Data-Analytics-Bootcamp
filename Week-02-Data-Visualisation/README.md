@@ -38,5 +38,5 @@ In Week 2, I explored data visualisation tools, focusing on Tableau and Power BI
 ## Sample Work
 Here is my work in Tableau and Power BI, including a Tableau dashboard showing percentage change and key impacted city locations from a job change dataset, and a Power BI visualisation of sales and profit by month, category, and product group.
 
-<img src="wk2-images/Tableau-activity-wk2.png" alt="Tableau Dashboard" width="600">
-<img src="wk2-images/powerbi-activity-wk2.png" alt="PowerBI Dashboard" width="600">
+<img src="Tableau-activity-wk2.png" alt="Tableau Dashboard" width="600">
+<img src="powerbi-activity-wk2.png" alt="PowerBI Dashboard" width="600">
