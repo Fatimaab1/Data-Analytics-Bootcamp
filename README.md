@@ -19,34 +19,34 @@ Throughout the bootcamp, I developed a solid foundation in analysing, visualisin
 ## Bootcamp Overview
 
 ### [Week 01 – Introduction to Data & Excel](Week-01-Data-and-Excel/)
-In Week 1, I built a foundation in data analytics concepts and developed practical Excel skills for data preparation, analysis, and visualisation.
+In week 1, I built a foundation in data analytics concepts and developed practical Excel skills for data preparation, analysis, and visualisation.
 
 <img src="Week-01-Data-and-Excel/week1-summary-image.png" alt="Week 1 Summary Visual" width="200">
 
 ---
 
 ### [Week 02 – Data Visualisation (Tableau & Power BI)](Week-02-Data-Visualisation/)
-In Week 2, the focus was on creating interactive dashboards and reports in Tableau and Power BI, learning how to visualise and communicate insights effectively.
+In week 2, the focus was on creating interactive dashboards and reports in Tableau and Power BI, learning how to visualise and communicate insights effectively.
 
 <img src="Week-02-Data-Visualisation/week2-summary-image.png" alt="Week 2 Summary Visual" width="200">
 
 ---
 
 ### [Week 03 – Databases & SQL](Week-03-SQL-and-Databases/)
-In Week 3, the focus was on understanding database fundamentals and using SQL to query, manipulate, and analyse data effectively.
+In week 3, the focus was on understanding database fundamentals and using SQL to query, manipulate, and analyse data effectively.
 
 <img src="Week-03-SQL-and-Databases/week3-summary-image.png" alt="Week 3 Summary Visual" width="200">
 
 ---
 
 ### [Week 05 – Cloud Computing & Azure Fundamentals](Week-05-Cloud-and-Azure/)
-In Week 5, the focus was on cloud computing concepts and Microsoft Azure, exploring data storage, analytics services, and cloud-based data solutions.
+In week 5, the focus was on cloud computing concepts and Microsoft Azure, exploring data storage, analytics services, and cloud-based data solutions.
 
 <img src="Week-05-Cloud-and-Azure/week5-summary-image.png" alt="Week 5 Summary Visual" width="200">
 
 ---
 
 ### [Week 06 – Python for Data Analysis](Week-06-Python-for-Data-Analysis/)
-In Week 6, the focus was on applying Python to data analysis tasks, working with DataFrames and creating visualisations.
+In week 6, the focus was on applying Python to data analysis tasks, working with DataFrames and creating visualisations.
 
 <img src="Week-06-Python-for-Data-Analysis/week6-summary-image.png" alt="Week 6 Summary Visual" width="200">
